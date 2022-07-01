@@ -1,6 +1,6 @@
-# Hi there, I'm Waleeed Atiq aka Bakchod Stack Developer
+# Hi there, I'm Waleeed Atiq aka Pull Stack Developer
 
-## I'm a Software Developer, and Software Engineer!!
+## I'm a Software Developer and Engineer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
