@@ -12,8 +12,8 @@
 [![website](./img/globe-light.svg)](https://waleed-portfolio.vercel.app/#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://waleed-portfolio.vercel.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/facebook-light.svg)](https://www.facebook.com/Waleeeeeeeeeeeeeeed/#gh-light-mode-only)
+[![website](./img/facebook-dark.svg)](https://www.facebook.com/Waleeeeeeeeeeeeeeed/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/waleed-atiq#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/waleed-atiq#gh-dark-mode-only)
