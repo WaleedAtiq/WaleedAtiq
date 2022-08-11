@@ -41,19 +41,13 @@
 
 ### :zap: GitHub Stats:
 
-<p align="center">
-<a href="https://github.com/WaleedAtiq">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=WaleedAtiq&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=WaleedAtiq&layout=compact&langs_count=8&theme=algolia"/>
-</a>
 <div align="center">
-  <a href="https://github.com/Berkzrx">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Berkzrx&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkzrx&layout=compact&langs_count=7&theme=gotham"/>
-    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=Berkzrx&theme=gotham&date_format=j%20M%5B%20Y%5D&background=0D1616&fire=FFAC2F&currStreakLabel=DDDDDD)"/>
+  <a href="https://github.com/WaleedAtiq">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WaleedAtiq&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedAtiq&layout=compact&langs_count=7&theme=gotham"/>
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=WaleedAtiq&theme=gotham&date_format=j%20M%5B%20Y%5D&background=0D1616&fire=FFAC2F&currStreakLabel=DDDDDD)"/>
   </a>
 </div>
-</p>
 
 
 [website]: https://raw.githubusercontent.com/WaleedAtiq/WaleedAtiq/master
