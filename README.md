@@ -44,7 +44,7 @@
 <div align="center">
   <a href="https://github.com/WaleedAtiq">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=WaleedAtiq&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedAtiq&layout=compact&langs_count=7&theme=gotham"/>
+    <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaleedAtiq&layout=compact&langs_count=7&theme=gotham"/> -->
     <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=WaleedAtiq&theme=gotham&date_format=j%20M%5B%20Y%5D&background=0D1616&fire=FFAC2F&currStreakLabel=DDDDDD)"/>
   </a>
 </div>
