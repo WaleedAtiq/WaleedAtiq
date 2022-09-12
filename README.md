@@ -2,11 +2,6 @@
 
 ## I'm a Software Developer and Engineer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to play guitar
-
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://waleed-portfolio.vercel.app/#gh-light-mode-only)
